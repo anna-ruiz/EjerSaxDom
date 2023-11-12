@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><escuela>
+
+<alumno id="FJ1001"><nombre>Federico</nombre><apellidos>Lopera Sanchis</apellidos><edad>18</edad><estado>Activo</estado></alumno>
+<alumno id="FJ1002"><nombre>Sara</nombre><apellidos>Gómez López</apellidos><edad>21</edad><estado>Activo</estado></alumno>
+<alumno id="FJ1003"><nombre>Juan</nombre><apellidos>Salas Telero</apellidos><edad>22</edad><estado>Inactivo</estado></alumno>
+<alumno id="AR1234"><nombre>Anna</nombre><apellidos>Ruiz Blaz</apellidos><edad>22</edad><estado>activo</estado></alumno></escuela>
